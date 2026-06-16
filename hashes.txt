@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Silueta de luna
+
+This log tracks the cryptographic history and versioning for the song **Silueta de luna** (silueta-de-luna).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T14:29:17.427256 | `v1` | `b2d869564dc23c34fb60bc83019897e7e890ac52336a77a9b0aa8153a50191af` | `67a69bf88fb295f37ad67dd98b9ed53b1a9d8ce85b5a3c6bb1b3b997ab080be7` | `2026-06-16_silueta-de-luna-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

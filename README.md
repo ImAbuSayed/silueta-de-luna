@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/silueta-de-luna/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Silueta de luna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silueta-de-luna/) |
+| **Get License** | [Obtain a Music License for Silueta de luna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silueta-de-luna/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b2d869564dc23c34fb60bc83019897e7e890ac52336a77a9b0aa8153a50191af` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
